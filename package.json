@@ -48,10 +48,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gr8sid/COMP308-W2019-Lesson8b"
+    "url": "git+https://github.com/gr8sid/COMP308-W2019-Lesson8"
   },
   "bugs": {
-    "url": "https://github.com/gr8sid/COMP308-W2019-Lesson8b/issues"
+    "url": "https://github.com/gr8sid/COMP308-W2019-Lesson8/issues"
   },
-  "homepage": "https://github.com/gr8sid/COMP308-W2019-Lesson8b#readme"
+  "homepage": "https://github.com/gr8sid/COMP308-W2019-Lesson8#readme"
 }
