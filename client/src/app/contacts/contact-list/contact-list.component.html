@@ -37,6 +37,7 @@
             <a
               routerLink="/contact/contact-list/delete/{{ contact._id }}"
               class="btn btn-danger"
+              (click)="onDeleteClick()"
               ><i class="fas fa-trash-alt"></i> Delete</a
             >
           </td>
